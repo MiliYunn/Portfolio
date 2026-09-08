@@ -1,0 +1,15 @@
+{
+  "name": "yoon-shwe-yee-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "tailwindcss -i ./src/input.css -o ./public/styles.css --minify",
+    "dev": "wrangler pages dev public --port 8788",
+    "deploy": "npm run build && wrangler pages deploy public --project-name yoonshweyee"
+  },
+  "devDependencies": {
+    "@tailwindcss/cli": "4.2.1",
+    "tailwindcss": "4.2.1",
+    "wrangler": "4.92.0"
+  }
+}

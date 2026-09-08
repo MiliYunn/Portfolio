@@ -1,29 +1,29 @@
 # Yoon Shwe Yee — Portfolio
 
-A responsive, scroll-driven portfolio that presents Yoon Shwe Yee's profile, education, experience, projects, and technical skills as a sequence of planetary destinations.
+A responsive, scroll-driven portfolio that presents Yoon Shwe Yee's profile, education, experience, projects, and technical skills as a modern galaxy signal map.
 
 Live site: [https://yoonshweyee.pages.dev](https://yoonshweyee.pages.dev)
 
 ## Experience
 
 - A static rocket on the opening screen, with no pilot or journey animation.
-- A small rotating destination planet visible before scrolling.
-- Planets grow continuously as their sections approach the viewport.
-- On arrival, each destination remains a mostly visible rotating sphere with a clear name label.
-- Distinct orbital strings, satellite dots, lighting, and rings decorate every world.
-- Original procedural planet textures use layered CSS gradients for continents, cloud bands, storms, rings, and craters; the visual references are not embedded or cropped.
-- Every section previews the next rotating planet in the opposite corner.
+- A glowing profile signal is visible before scrolling.
+- Constellation nodes grow continuously as their sections approach the viewport.
+- Animated scan rings, light trails, icons, and stars identify each portfolio section.
+- Every section previews the next destination signal in the opposite corner.
+- Interactive technical-skill tabs reveal the languages and tools for each category.
+- Project case studies show portal responsibilities, workflows, and clearly labeled GitHub links.
 - Alternating left/right compositions keep the journey easy to follow.
 - Reduced-motion support and a simplified responsive mobile layout.
 
 ## Portfolio map
 
-1. Earth — Professional Profile
-2. Mars — Education
-3. Jupiter — Professional Experience
-4. Saturn — Selected Projects
-5. Neptune — Technical Skills
-6. Moon — Contact and Interests
+1. Professional Profile
+2. Education
+3. Professional Experience
+4. Project
+5. Technical Skills
+6. Contact and Interests
 
 ## Technology
 
