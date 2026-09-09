@@ -13,7 +13,7 @@ Live site: [https://yoonshweyee.pages.dev](https://yoonshweyee.pages.dev)
 - Every section previews the next destination signal in the opposite corner.
 - Interactive technical-skill tabs reveal the languages and tools for each category.
 - Project case studies show portal responsibilities, workflows, and clearly labeled GitHub links.
-- The original Yoon logo artwork remains unchanged and is presented on a neutral badge within the dark galaxy header and footer.
+- The Yoon wordmark geometry remains unchanged and is rendered from a transparent PNG directly on the dark galaxy header and footer.
 - Alternating left/right compositions keep the journey easy to follow.
 - Reduced-motion support and a simplified responsive mobile layout.
 
